@@ -2,7 +2,7 @@
 
 The Login Screen...
 
-![Output] (http://i65.tinypic.com/2aj14eh.jpg)
+![Output] (http://i64.tinypic.com/vqmnpu.jpg)
 
 
 Correct password and username...
